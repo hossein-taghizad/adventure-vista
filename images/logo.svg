@@ -1,0 +1,30 @@
+<svg
+      width="300"
+      height="30"
+      viewBox="0 0 300 20"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <!-- First word in bold -->
+      <text
+        x="10"
+        y="20"
+        font-family="Lato"
+        font-size="30"
+        font-weight="bold"
+        fill="#222222"
+      >
+        ADVENTURE
+      </text>
+      <!-- Second word in the specified color -->
+      <text
+        x="210"
+        y="20"
+        font-family="Lato"
+        font-size="30"
+        font-weight="bold"
+        fill="#3FD0D4"
+      >
+        VISTA
+      </text>
+    </svg>
